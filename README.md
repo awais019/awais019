@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=awais019.awais019" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Lato&size=35&weight=700&&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Muhammad+Awais!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Lato&size=35&weight=700&&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Awais!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Pakistan 🇵🇰</h3>
@@ -64,6 +64,6 @@
 
 <hr/>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting!" />
-</h1>
+<h3 align="center">
+    Thanks for Visiting!
+</h3>
