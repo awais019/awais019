@@ -64,6 +64,10 @@
 
 <hr/>
 
+<a href="https://app.daily.dev/awais019"><img src="https://api.daily.dev/devcards/v2/8IzFgft9ykzsPvU2FJh9x.png?type=default&r=05n" width="356" alt="Muhammad Awais's Dev Card"/></a>
+
+<hr/>
+
 <h3 align="center">
     Thanks for Visiting!
 </h3>
